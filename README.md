@@ -1,5 +1,7 @@
 
 **BlinkIT Grocery Sales Dashboard**
+## Screenshot
+![Dashboard Screenshot](images/dashboard.png)
 
 **Overview**
 
