@@ -1,7 +1,7 @@
 
 **BlinkIT Grocery Sales Dashboard**
 ## Screenshot
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](https://github.com/Abhishekbishnoi0029/Blinkit_Analysis/blob/main/dashboard.png)
 
 **Overview**
 
